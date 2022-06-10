@@ -1,0 +1,24 @@
+details {
+    margin-top: 1.5rem;
+    width: 100%;
+    background-color: #fff;
+    border-radius: 1rem;
+    padding: .6rem 1.5rem;
+}
+
+summary {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    cursor: pointer;
+}
+
+summary span:first-child {
+    font-weight: 500;
+    font-size: 1.1rem;
+    flex: 1;
+}
+
+p {
+    margin-top: 1rem;
+}
